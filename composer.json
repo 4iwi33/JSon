@@ -1,0 +1,9 @@
+{
+    "name": "kuntsevich/loger",
+    "description": "Проверка пользователя",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core"
+        }
+    }
+}
